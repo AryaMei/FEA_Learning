@@ -1,0 +1,14 @@
+*.exe
+*.pkg
+*.rar
+
+# 忽略 VS Code 设置文件夹
+.vs/
+
+# 忽略 PyCharm 项目文件夹
+.idea/*
+__pycache__/
+
+build/
+dist/
+*.pyc
